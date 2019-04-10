@@ -1,3 +1,6 @@
+" Clone this vimrc file on your local machine under ~/.vim/. Vim will look for ~/.vimrc but also for ~/.vim/vimrc. 
+" Refer to: https://stackoverflow.com/questions/18197705/adding-your-vim-vimrc-to-github-aka-dot-files
+
 " enable syntax processing
 syntax enable
 
